@@ -1,0 +1,5 @@
+PERSON Joe Androgynous
+  FATHER_OF Joe's son
+
+PERSON Joe's daughter
+  MOTHER Joe Androgynous
