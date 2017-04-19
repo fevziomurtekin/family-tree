@@ -23,7 +23,7 @@ C. DERLEME
 
 D. ÇALIŞTIRMA
 
-		Çalıştırma 2 şekilde yapılabilmekter.
+		Çalıştırma 2 şekilde yapılabilmektedir.
 
 		  1-)
 			-Derleme işleminin yapıldığı yerde "./proje1 <okunacakDosya.txt> yazilacakDosya.txt" yazılarak programın sonucu yazılacakDosya ya yazdırılır.
