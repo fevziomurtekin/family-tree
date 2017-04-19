@@ -28,4 +28,4 @@ D. ÇALIŞTIRMA
 		  1-)
 			-Derleme işleminin yapıldığı yerde "./proje1 <okunacakDosya.txt> yazilacakDosya.txt" yazılarak programın sonucu yazılacakDosya ya yazdırılır.
 			-Derleme işleminin yapıldığı yerde "./proje1 <okunacakDosya.txt" yazılarak programın sonucu terminalde görülür.
-   		2-)Derleme işleminin yapıldığı yerde "./proje1 okunacakDosya.txt yazilacakDosya.txt" yazılarak program çalıştırılmaktadır.
+   		 2-)    Derleme işleminin yapıldığı yerde "./proje1 okunacakDosya.txt yazilacakDosya.txt" yazılarak program çalıştırılmaktadır.
