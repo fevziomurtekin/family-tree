@@ -1,14 +1,3 @@
-/*
-
-Fatma Koç            - B120910028 (1.Öğretim C grubu)
-Fevzi Ömür Tekin     - B130910043 (1.Öğretim C grubu)
-Mert Geyik           - B120910034 (1.Öğretim C grubu)
-Caner Arifoğlu       - B120910031 (1.Öğretim C grubu)
-
-*/
-
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
