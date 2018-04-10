@@ -2,7 +2,7 @@ A. INTRODUCTION
 
 In this project, the process of creating an ancestor tree was performed using libraries. The file name is entered as a parameter in the command line for entries. For example: ./example fam1.txt fam2.txt The first parameter is the program name, the second parameter is the name of the file to be read, and the third parameter is the name of the file to be written. Fields and dllist libraries are used in the project.
 
-B.İÇ olds
+B.CONTENS
 
 Readme: This file.
 Project1.c: The file of project operations.
@@ -19,7 +19,6 @@ D. OPERATION
 
 Operation can be done in 2 ways.
 
-one-)
-- At the place where the dereferencing process is done, "./project1 <file.txt> to be writtenfile.txt" is written and the program is printed to the file to be written.
+1-) At the place where the dereferencing process is done, "./project1 <file.txt> to be writtenfile.txt" is written and the program is printed to the file to be written.
 - At the place where the dereferencing process is done, "./project1 <readDirectory.txt" is written and the result of the program appears in the terminal.
 2-) At the place where the compilation process is done, "./project1 will be read as file.txt to be writtenFile.txt" is written and program is running.
