@@ -1,31 +1,25 @@
+A. INTRODUCTION
 
-A. GİRİŞ
+In this project, the process of creating an ancestor tree was performed using libraries. The file name is entered as a parameter in the command line for entries. For example: ./example fam1.txt fam2.txt The first parameter is the program name, the second parameter is the name of the file to be read, and the third parameter is the name of the file to be written. Fields and dllist libraries are used in the project.
 
-   Bu projede kütüphaneler kullanılarak soy ağacı oluşturma işlemi gerçekleştirilmiştir.
-   Girişler için komut satırına parametre olarak dosya adı girilmektedir. Örnek olarak:  ./deneme fam1.txt fam2.txt
-   Birinci parametre program adını, ikinci parametre okunacak dosya adını, üçüncü parametre yazilacak dosya adını belirtmektedir.
-   Proje içinde fields ve dllist kütüphaneleri kullanılmıştır.
+B.İÇ olds
 
-B.İÇİNDEKİLER
+Readme: This file.
+Project1.c: The file of project operations.
+fields.h: library for reading files
+fields.c: C file that should be compiled for use with the Fields library
+dllist.h: The library needed to hold the data read from the file.
+dllist.c: The C file that should be compiled for the use of the dllist library
+Makefile: A file written for compilation.
+C. REVIEW
 
-   1. Readme	: Bu dosya.
-   2. proje1.c	: Proje işlemlerinin gerçekleştiği dosya.
-   3. fields.h	: Dosya okumak için gerekli kütüphane
-   4. fields.c  : Fields kütüphanesi kullanımı için derlenmesi gereken C dosyası
-   5. dllist.h	: Dosyadan okunan verilerin tutulması için gerekli kütüphane.
-   6. dllist.c  : Dllist kütüphanesi kullanımı için derlenmesi gereken C dosyası
-   7. Makefile	: Derleme işlemi için yazılmış dosya.
+The necessary files and libraries are moved to the Linux operating system. The required folder is entered in the command line. The make command compiles the file
 
-C. DERLEME
+D. OPERATION
 
-   Linux işletim sistemi üzerine gerekli dosya ve kütüphanelerin bulunduğu klasörü taşınır.
-   Komut satırından gerekli klasörün içine girilir. make komutu ile dosya derlenir
+Operation can be done in 2 ways.
 
-D. ÇALIŞTIRMA
-
-		Çalıştırma 2 şekilde yapılabilmektedir.
-
-		  1-)
-			-Derleme işleminin yapıldığı yerde "./proje1 <okunacakDosya.txt> yazilacakDosya.txt" yazılarak programın sonucu yazılacakDosya ya yazdırılır.
-			-Derleme işleminin yapıldığı yerde "./proje1 <okunacakDosya.txt" yazılarak programın sonucu terminalde görülür.
-   		 2-)    Derleme işleminin yapıldığı yerde "./proje1 okunacakDosya.txt yazilacakDosya.txt" yazılarak program çalıştırılmaktadır.
+one-)
+- At the place where the dereferencing process is done, "./project1 <file.txt> to be writtenfile.txt" is written and the program is printed to the file to be written.
+- At the place where the dereferencing process is done, "./project1 <readDirectory.txt" is written and the result of the program appears in the terminal.
+2-) At the place where the compilation process is done, "./project1 will be read as file.txt to be writtenFile.txt" is written and program is running.
