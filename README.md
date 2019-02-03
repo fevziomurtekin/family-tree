@@ -21,5 +21,6 @@ The necessary files and libraries are moved to the Linux operating system. The r
 Operation can be done in 2 ways.
 
 1-) At the place where the dereferencing process is done,<b> "./project1 <file.txt> to be writtenfile.txt"</b> is written and the program is printed to the file to be written.
-  - At the place where the dereferencing process is done, <b>"./project1 <readDirectory.txt"</b> is written and the result of the program appears in the terminal.
+  - At the place where the dereferencing process is done, <b>"./project1 <readDirectory.txt" </b> is written and the result of the program appears in the terminal.
+    
 2-) At the place where the compilation process is done, "./project1 will be read as file.txt to be writtenFile.txt" is written and program is running.
